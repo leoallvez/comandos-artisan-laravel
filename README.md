@@ -50,7 +50,7 @@
 <h2><b>php artisan serve<b></h2>
   <p>Inicia o servidor interno do PHP para que a aplicação seja acessada.</p>
 <h2><b>php artisan tinker<b></h2>
-  <p>Disponibiliza um terminal interativo que possibilita rodar a aplicação via console./p>
+  <p>Disponibiliza um terminal interativo que possibilita rodar a aplicação via console.</p>
   
 
   
