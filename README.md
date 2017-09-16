@@ -12,9 +12,7 @@
   <p>Dropa todas as tabelas na base de dados do sistema e as crias novamente e seguida</p>
 <h2><b>php artisan migrate:status</b></h2>
   <p>Mostra o status de cada migration</p>
-<h2><b>php artisan migrate:status</b></h2>
-  <p>Mostra o status de cada migration</p>
-  
+ 
 <h1><b>cache</b></h1>
 <h2><b>php artisan cache:clear</b></h2>
   <p>Limpa o cache do aplicativo</p>
