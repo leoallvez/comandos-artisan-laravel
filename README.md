@@ -8,7 +8,7 @@
 <h2><b>php artisan migrate:reset</b></h2> 
   <p>Efetua um rollback em todas database migration da aplicação.</p>
 <h2><b>php artisan migrate:refresh</b></h2>
-  <p>Dropa todas tabelas na base de dados do sistema e as crias novamente e seguida.</p>
+  <p>Dropa todas tabelas na base de dados do sistema e as crias novamente em seguida.</p>
 <h2><b>php artisan migrate:status</b></h2>
   <p>Mostra o status de cada migration.</p>
  
