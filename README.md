@@ -8,13 +8,13 @@
 <h2><b>php artisan migrate:reset</b></h2> 
   <p>Efetua um rollback em todas database migration da aplicação.</p>
 <h2><b>php artisan migrate:refresh</b></h2>
-  <p>Dropa todas tabelas na base de dados do sistema e as crias novamente em seguida.</p>
+  <p>Dropa todas tabelas na base de dados do sistema e as recrias em seguida.</p>
 <h2><b>php artisan migrate:status</b></h2>
   <p>Mostra o status de cada migration.</p>
  
 <h1><b>Cache</b></h1>
 <h2><b>php artisan cache:clear</b></h2>
-  <p>Limpa o cache do aplicativo.</p>
+  <p>Limpa o cache da aplicação laravel.</p>
 <h2><b>php artisan cache:table</b></h2>        
   <p>Cria uma migration para gerar uma tabela de cache.</p>
   
@@ -23,8 +23,8 @@
   <p>Cria uma estrutura básica de login e registro de usuário com views e routes.</p>
 <h2><b>php artisan make:controller NameController</b></h2>
   <p>Cria um novo controller chamado <b>NameController</b>.</p>
-<h2><b>php artisan make:controller NomeController --resource</b></h2>
-  <p>Cria um novo controller chamado <b>NameController</b> que conterá um método para cada uma das operações de recursos.</p>
+<h2><b>php artisan make:controller NameController --resource</b></h2>
+  <p>Cria um novo controller chamado <b>NameController(nome de exemplo)</b> que conterá um método para cada uma das operações de recursos.</p>
 <h2><b>php artisan make:migration create_users_table --create=users<b></h2>
   <p>Cria um aquivo de migration chamado <b>create_users_table</b> para a criação de uma tabela chamada <b>users</b></p>
 <h2>php artisan make:migration add_votes_to_users_table --table=users</h2>
