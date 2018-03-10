@@ -4,11 +4,11 @@
 <h2><b>php artisan migrate<b></h2>
   <p>Cria todas tabelas do banco de dados apartir dos aquivos na pasta migrations do laravel.</p>
 <h2><b>php artisan migrate:rollback</b></h2>
-  <p>Efetua um rollback na última database migration executada no console.</p>
+  <p>Efetua o rollback na última database migration executada no console.</p>
 <h2><b>php artisan migrate:reset</b></h2> 
-  <p>Efetua um rollback em todas database migration da aplicação.</p>
+  <p>Efetua o rollback em todas database migration da aplicação.</p>
 <h2><b>php artisan migrate:refresh</b></h2>
-  <p>Dropa todas tabelas na base de dados do sistema e as recrias em seguida.</p>
+  <p>Exclui todas tabelas na base de dados do sistema e as recrias em seguida.</p>
 <h2><b>php artisan migrate:status</b></h2>
   <p>Mostra o status de cada migration.</p>
  
@@ -40,7 +40,7 @@
 <h2>php artisan make:request StoreBlogPost</h2>
   <p>Cria uma nova form request class chamada <b>StoreBlogPost</b>.</p>
   
-<h1><b>Db</b></h1>
+<h1><b>Data Base</b></h1>
 <h2><b>php artisan db:seed<b></h2>
   <p>Popula com dados as tabelas do framework de acordo os arquivos de seeds.</p>
 
